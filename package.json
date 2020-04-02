@@ -1,0 +1,25 @@
+{
+  "name": "generator-create-node-express-app",
+  "version": "9.0.4",
+  "description": "Awesome APIs with ExpressJS and OpenAPI/Swagger: Features automatic request validation, interactive api doc, and more.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "express",
+    "generator",
+    "yeoman-generator",
+    "structured-logging",
+    "12-factor-apps",
+    "babel",
+    "yarn",
+    "swagger",
+    "rest"
+  ]
+}

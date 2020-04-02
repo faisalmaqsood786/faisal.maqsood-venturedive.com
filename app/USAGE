@@ -1,0 +1,10 @@
+Description:
+    Scaffolds a 12-factor Swagger enabled ExpressJS application.
+
+Example:
+    yo express-no-stress [appname] [--yarn] [--docker]
+
+Then:
+    Navigate to appname e.g. `cd myapp/`
+    Run `npm run dev`
+    Browse to http://localhost:3000
